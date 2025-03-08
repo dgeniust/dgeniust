@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm dgeniust</h1>
 <h3 align="center">A passionate frontend developer from HCMUTE</h3>
-<img align="right" alt="Coding" width="400" src ="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
+<img align="right" alt="Coding" width="400" src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkMGw4ZnRjcGdyNGcxOWNod2NkaXRnZjJpZG1waGxudWhxOHlldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif">
 
 - 🔭 I’m currently working on [Hcmute-Care](https://github.com/dgeniust/hcmute-care)
 
