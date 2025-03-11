@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from HCMUTE</h3>
 <img align="right" alt="Coding" width="400" src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkMGw4ZnRjcGdyNGcxOWNod2NkaXRnZjJpZG1waGxudWhxOHlldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif">
 
-- 🔭 I’m currently working on [Hcmute-Care](https://github.com/dgeniust/hcmute-care)
+- 🔭 I’m currently working on [HCMUTE-CARE](https://github.com/dgeniust/hcmute-care)
 
 - 🌱 I’m currently learning **NextJS, SpringBoot**
 
